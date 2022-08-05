@@ -114,6 +114,12 @@ compile_commands.json
 
 # Optional user provided library folder
 lib/irrlichtmt
+lib/gmp
 
 # Generated mod storage database
 client/mod_storage.sqlite
+
+/src/minetest.dir/
+/src/x64/
+/x64/
+*.tlog
